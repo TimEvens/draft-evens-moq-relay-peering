@@ -39,7 +39,7 @@ informative:
 --- abstract
 
 This document defines the relay peering protocol that is used with
-MoQT to provide relay to relay peering. 
+MoQT to provide relay to relay peering.
 
 --- middle
 
