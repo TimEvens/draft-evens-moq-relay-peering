@@ -1,0 +1,4 @@
+[submodule "i-d-template"]
+	path = deps/i-d-template
+	url = https://github.com/martinthomson/i-d-template
+	branch = main
